@@ -8,7 +8,7 @@ import json
 import os
 from py2neo import Graph
 
-PASSWORD = 'paint-pixel-sulfur-paint-season-4270'
+PASSWORD = replace_with_your_password
 
 class GoodsKg:
     def __init__(self):
